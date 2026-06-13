@@ -24,7 +24,3 @@ This project is an Excel dashboard created to analyze coffee orders, sales perfo
 * coffeeOrdersData.xlsx
 * coffeeOrder-Dashboards.png
 
-## Author
-
-Samira
-
